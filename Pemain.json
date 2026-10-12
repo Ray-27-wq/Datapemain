@@ -1,0 +1,72 @@
+{
+  "pack_name": "Paket Pemain Kustom",
+  "author": "Ray",
+  "version": "1.0",
+  "players": [
+    {
+      "id": "1",
+      "name": "Suto",
+      "position": "FR",
+      "rating": 89
+    },
+    {
+      "id": "2",
+      "name": "Tosu",
+      "position": "FK",
+      "rating": 88
+    }, 
+    {
+      "id": "3",
+      "name": "Shot",
+      "position": "FT",
+      "rating": 89
+    },
+    {
+      "id": "4",
+      "name": "Lionel Asep",
+      "position": "AMT",
+      "rating": 88
+    },
+    {
+      "id": "5",
+      "name": "Zinedine Zildan",
+      "position": "GT",
+      "rating": 86
+    },
+    {
+      "id": "6",
+      "name": "Toni Kriss",
+      "position": "GT",
+      "rating": 87
+    },
+    {
+      "id": "7",
+      "name": "Roberto Isan",
+      "position": "BK",
+      "rating": 86
+    },
+    {
+      "id": "8",
+      "name": "Nemanja Vodic",
+      "position": "BT",
+      "rating": 87
+    }, 
+    {   
+      "id": "9",
+      "name": "Paolo Maldani",
+      "position": "BT",
+      "rating": 86
+    },
+    {
+      "id": "10",
+      "name": "Java Zanetti",
+      "position": "BR",
+      "rating": 85
+    },
+    {
+      "id": "11",
+      "name": "Lev Yasha",
+      "position": "GK",
+      "rating": 90
+    }
+ 
